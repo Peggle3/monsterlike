@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://b03qhecpulwpi"]
+
+[sub_resource type="PlaceholderTexture2D" id="PlaceholderTexture2D_ajct6"]
+
+[node name="Bebemon" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(30.75, 27.75)
+scale = Vector2(62.5, 56.5)
+texture = SubResource("PlaceholderTexture2D_ajct6")

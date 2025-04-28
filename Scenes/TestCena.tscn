@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://b3xpfyj8s5rta"]
+
+[ext_resource type="PackedScene" uid="uid://b03qhecpulwpi" path="res://Scenes/bebemon.tscn" id="1_37rh7"]
+
+[node name="TestCena" type="Node2D"]
+position = Vector2(288, 265)
+
+[node name="Bebemon" parent="." instance=ExtResource("1_37rh7")]

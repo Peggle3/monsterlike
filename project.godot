@@ -10,17 +10,7 @@ config_version=5
 
 [application]
 
-config/name="monsterlike"
-run/main_scene="uid://im7stguwgq8t"
+config/name="Monsterlike"
+run/main_scene="uid://b3xpfyj8s5rta"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
-
-[display]
-
-window/size/viewport_width=1280
-window/size/viewport_height=720
-window/stretch/mode="viewport"
-
-[editor_plugins]
-
-enabled=PackedStringArray("res://addons/YouCanDoIt/plugin.cfg")

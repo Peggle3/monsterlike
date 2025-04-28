@@ -1,5 +1,5 @@
 class_name bebemon
-extends "res://evomon.gd"
+extends "res://Scripts/evomon.gd"
 
 func _init() -> void:
 	health = 30
