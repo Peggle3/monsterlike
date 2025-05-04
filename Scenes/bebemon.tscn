@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://b03qhecpulwpi"]
 
-[ext_resource type="Script" uid="uid://uk01ik8fmoo7" path="res://Scripts/bebemon.gd" id="1_hg7xe"]
+[ext_resource type="Script" uid="uid://c4xuxl12uraih" path="res://Scripts/Bebemon.cs" id="1_hg7xe"]
 
 [sub_resource type="PlaceholderTexture2D" id="PlaceholderTexture2D_ajct6"]
 

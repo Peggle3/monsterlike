@@ -5,11 +5,12 @@ extends "res://Scripts/evomon.gd"
 func _init() -> void:
 	level = 1
 	evo_cond = 6
-	health = 30
+	exp_limit = 5
+	hp = 30
 	body_parts = "head"
 	
 	
-	print(health , "\n", body_parts, "\n", evoCondReached())
+	print(hp , "\n", body_parts, "\n", evoCondReached())
 
 
 func _process(delta: float) -> void:
